@@ -1,0 +1,26 @@
+{
+  "name": "minted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Pranav",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "jquery": "^3.6.0",
+    "json": "^11.0.0",
+    "mongoose": "^5.13.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
